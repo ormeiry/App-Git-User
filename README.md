@@ -7,16 +7,14 @@ Get info like followers, 5 recent repos, link to profile and more..
 
 ### For this project I used:
 
-React,
+- React with hooks.
 
-React Hooks,
+- React Router.
 
-React Router,
+- Context API.
 
-Context API,
+- GitHub API using axios
 
-GitHub API using axios,
-
-CSS, Font Awesome.
+- CSS, Font Awesome.
 
 There is a link attached above.
