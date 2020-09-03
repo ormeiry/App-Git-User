@@ -1,8 +1,11 @@
-Git User is a web app for searching GitHub users,
+# Git User
 
-Getting info like followers, 5 recent repos, link to profile and more..
+## A web app for searching GitHub users.
 
-For this project I used:
+### what can you do?
+Get info like followers, 5 recent repos, link to profile and more..
+
+### For this project I used:
 
 React,
 
