@@ -18,3 +18,6 @@ Get info like followers, 5 recent repos, link to profile and more..
 - CSS, Font Awesome.
 
 There is a link attached above.
+
+<img src="itLogger.png" alt="itLogger" width="700"/>
+
