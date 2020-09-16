@@ -19,5 +19,5 @@ Get info like followers, 5 recent repos, link to profile and more..
 
 There is a link attached above.
 
-<img src="itLogger.png" alt="itLogger" width="700"/>
+<img src="gitUser.png" alt="gitUser" width="700"/>
 
